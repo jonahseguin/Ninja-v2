@@ -1,0 +1,25 @@
+#####
+##### Copyright 2015 Jonah Seguin (Shawckz.com).  All rights reserved.
+#####
+name: Ninja
+main: com.shawckz.ninja.NinjaCore
+version: 3.0.0
+description: The Minecraft hack detection built to regulate, not to block.
+author: Jonah Seguin (Shawckz)
+website: http://shawckz.com
+
+commands:
+  alerts:
+    usage: /<command>
+    description: Toggle alerts
+    aliases: [al,alertsoff,alertson]
+  cancel:
+    usage: /<command>
+    description: Cancel an autoban
+    aliases: [abcancel,unautoban,stopautoban,stopab]
+  ninja:
+    usage: /<command>
+    description: General Ninja command
+    aliases: [ninj, hacks, hax, xninja]
+  freeze:
+##PERMISSIONS: ninja.alerts, ninja.use

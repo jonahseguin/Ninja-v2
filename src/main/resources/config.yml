@@ -1,0 +1,63 @@
+ninja:
+  autoban: true
+  enabled: true
+  disable-tps: 15
+  ban-message: "[Ninja] Hacking [%hack%]"
+checks:
+  AutoClick:
+    enabled: true
+    autoban: true
+  FastBow:
+    enabled: true
+    autoban: true
+  Regen:
+    enabled: true
+    autoban: true
+  SelfHit:
+    enabled: true
+    autoban: true
+  Fly:
+    enabled: true
+    autoban: true
+  Speed:
+    enabled: true
+    autoban: true
+  Glide:
+    enabled: true
+    autoban: true
+  XRay:
+    enabled: true
+    autoban: true
+  FastPlace:
+    enabled: true
+    autoban: true
+  FastBreak:
+    enabled: true
+    autoban: true
+  FastEat:
+    enabled: true
+    autoban: true
+  Criticals:
+    enabled: true
+    autoban: true
+  VClip:
+    enabled: true
+    autoban: true
+  Knockback:
+    enabled: true
+    autoban: true
+  Jesus:
+    enabled: true
+    autoban: true
+  Aura:
+    enabled: true
+    autoban: true
+  TriggerBot:
+    enabled: true
+    autoban: true
+  Criticals:
+    enabled: true
+    autoban: true
+  Knockback:
+    enabled: true
+    autoban: true
